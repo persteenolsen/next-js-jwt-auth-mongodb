@@ -6,7 +6,7 @@ A User Login and Registration
 
 Node Version at Vercel: 20
 
-Last updated: 01-01-2025
+Last updated: 02-01-2025
 
 
 

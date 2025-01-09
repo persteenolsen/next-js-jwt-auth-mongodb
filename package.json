@@ -1,5 +1,5 @@
 {
-    "name": "next-js-13-app-router-mongodb-rego-login-example",
+    "name": "next-js-jwt-auth-mongodb",
     "version": "0.1.0",
     "private": true,
     "scripts": {

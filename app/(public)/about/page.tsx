@@ -8,7 +8,7 @@ function About() {
     return (
         <div className="card">
                        
-            <h4 className="card-header">Tech used for the Web App</h4>
+            <h4 className="card-header">Full-stack Next.js and MongoDB Web App</h4>
             <div className="card-body">
 
               <ul>
@@ -17,7 +17,7 @@ function About() {
                 </li>
 
                 <li>
-                 The Next Web App is hosted at Vercel Cloud
+                 The Next.js Web Application is hosted at Vercel Cloud using Serverless Functions
                 </li>
                 
                 <li>
@@ -52,7 +52,7 @@ function About() {
                 </li>
 
                 <li>
-                 Mongoose ODM ( Object Data Modeling ) which is used for NoSQL like ORM ( Object Relational mapping ) is used for Relational databases like MySQL
+                 Mongoose ODM ( Object Data Modeling ) was used for NoSQL like ORM ( Object Relational mapping ) used for Relational databases like MySQL
                 </li>
               
 

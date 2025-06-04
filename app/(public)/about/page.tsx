@@ -7,8 +7,7 @@ function About() {
 
     return (
         <div className="card">
-            
-           
+                       
             <h4 className="card-header">Tech used for the Web App</h4>
             <div className="card-body">
 

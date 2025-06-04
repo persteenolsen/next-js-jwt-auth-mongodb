@@ -8,7 +8,7 @@ function About() {
     return (
         <div className="card">
                        
-            <h4 className="card-header">Full-stack Next.js and MongoDB Web App</h4>
+            <h4 className="card-header">Full-stack Next.js and MongoDB Web Application</h4>
             <div className="card-body">
 
               <ul>

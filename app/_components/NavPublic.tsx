@@ -12,7 +12,7 @@ function NavPublic() {
             <div className="navbar-nav">
                 
                 <NavLink href="/account/login" className="nav-item nav-link">Home</NavLink>
-                <NavLink href="/about" className="nav-item nav-link">About this Web App</NavLink>
+                <NavLink href="/about" className="nav-item nav-link">About this Web Application</NavLink>
                 
                 
             </div>

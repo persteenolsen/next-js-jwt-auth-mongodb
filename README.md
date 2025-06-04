@@ -1,6 +1,6 @@
 # next-js-jwt-auth-mongodb
 
-Full-stack Next.js and MongoDB Web Application
+Full Stack Next.js and MongoDB Web Application
 
 The Web Application is serving as a Membership System with User Login and Registration
 
@@ -24,7 +24,7 @@ Last updated: 04-06-2025
                     
 - The MongoDB is hosted at Mongo Atlas Cloud Platform
 
-- Mongoose ODM ( Object Data Modeling ) which is used for NoSQL like ORM ( Object Relational mapping ) is used for Relational databases like MySQL
+- Mongoose ODM ( Object Data Modeling ) which is used for NoSQL like ORM ( Object Relational mapping ) used for Relational databases like MySQL
                 
               
 

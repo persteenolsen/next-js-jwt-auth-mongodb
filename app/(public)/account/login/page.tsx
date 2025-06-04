@@ -26,7 +26,6 @@ function Login() {
     return (
         <div className="card">
             
-            <h4 className="card-body">Last updated: 04-06-2025</h4>
             <h4 className="card-header">Login</h4>
             <div className="card-body">
                 <form onSubmit={handleSubmit(onSubmit)}>

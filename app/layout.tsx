@@ -15,7 +15,7 @@ function Layout({ children }: { children: React.ReactNode }) {
 
                 {/* credits */}
                 <div className="text-center mt-4">
-                   
+                  Web Developer - Per Olsen - Denmark
                 </div>
             </body>
         </html>

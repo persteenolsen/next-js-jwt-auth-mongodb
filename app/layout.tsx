@@ -10,6 +10,8 @@ export default Layout;
 function Layout({ children }: { children: React.ReactNode }) {
     return (
         <html lang="en">
+
+            <meta name="description" content="Full Stack Web Application by Next.js and MongoDB "></meta>
             <body>
                 {children}
 

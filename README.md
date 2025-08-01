@@ -4,7 +4,7 @@ Full Stack Next.js and MongoDB Web Application
 
 The Web Application is serving as a Membership System with User Login and Registration
 
-Last updated: 27-07-2025
+Last updated: 01-08-2025
                 
 - The Next.js Web App is hosted at Vercel Cloud
                

@@ -13,7 +13,7 @@ function About() {
 
               <ul>
                 <li>
-                 Last Updated: 01-08-2025
+                 Last Updated: 06-08-2025
                 </li>
 
                 <li>
